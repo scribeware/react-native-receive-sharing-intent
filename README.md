@@ -1,3 +1,7 @@
+# fork 
+applies [https://github.com/ajith-ab/react-native-receive-sharing-intent/pull/133/files]
+
+
 # react-native-receive-sharing-intent
 
 A React Native plugin that enables React Native apps to receive sharing photos, videos, text, urls or any other file types from another app.
