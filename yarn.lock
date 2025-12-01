@@ -8565,7 +8565,7 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
-react-native-builder-bob@^:
+react-native-builder-bob@^0.40.16:
   version "0.40.16"
   resolved "https://registry.yarnpkg.com/react-native-builder-bob/-/react-native-builder-bob-0.40.16.tgz#e00d7587190720660e85aa61cf66d0b798d49659"
   integrity sha512-BA4XZGyEiLNYH4CYE/O9yZV/8RZcIknyd+3D4EU+PmTI4trGP/EQI+ZrbRRaJYeV2vbE0TqpYMlxGwlu+j6lFg==
