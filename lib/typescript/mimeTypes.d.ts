@@ -598,3 +598,4 @@ declare const mimeTypes: {
     ".zip": string;
 };
 export default mimeTypes;
+//# sourceMappingURL=mimeTypes.d.ts.map

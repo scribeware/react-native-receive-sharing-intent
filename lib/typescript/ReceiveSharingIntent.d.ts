@@ -9,3 +9,4 @@ declare class ReceiveSharingIntentModule implements IReceiveSharingIntent {
     protected getFileNames(handler: Function, errorHandler: Function, url: string): void;
 }
 export default ReceiveSharingIntentModule;
+//# sourceMappingURL=ReceiveSharingIntent.d.ts.map

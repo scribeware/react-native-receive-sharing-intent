@@ -6,3 +6,4 @@ declare class Utils implements IUtils {
     getMimeType: (file: string) => string;
 }
 export default Utils;
+//# sourceMappingURL=utils.d.ts.map

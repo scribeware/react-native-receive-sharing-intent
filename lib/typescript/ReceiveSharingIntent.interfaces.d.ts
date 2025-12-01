@@ -13,3 +13,4 @@ export interface IReturnData {
     fileName?: any | string;
     extension?: any | string;
 }
+//# sourceMappingURL=ReceiveSharingIntent.interfaces.d.ts.map
